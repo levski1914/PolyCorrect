@@ -1,0 +1,10 @@
+{
+  "аз": { "pos": "PRON", "person": 1, "number": "Sing" },
+  "ти": { "pos": "PRON", "person": 2, "number": "Sing" },
+  "той": { "pos": "PRON", "person": 3, "number": "Sing" },
+  "тя": { "pos": "PRON", "person": 3, "number": "Sing" },
+  "то": { "pos": "PRON", "person": 3, "number": "Sing" },
+  "ние": { "pos": "PRON", "person": 1, "number": "Plur" },
+  "вие": { "pos": "PRON", "person": 2, "number": "Plur" },
+  "те": { "pos": "PRON", "person": 3, "number": "Plur" }
+}

@@ -1,0 +1,112 @@
+{
+  "какъв": {
+    "pos": "ADJ",
+    "gender": "Masc",
+    "number": "Sing",
+    "forms": {
+      "Masc": "какъв",
+      "Fem": "каква",
+      "Neut": "какво",
+      "Plur": "какви"
+    }
+  },
+  "каква": {
+    "pos": "ADJ",
+    "gender": "Fem",
+    "number": "Sing",
+    "forms": {
+      "Masc": "какъв",
+      "Neut": "какво",
+      "Plur": "какви"
+    },
+    "base": "какъв"
+  },
+  "какво": {
+    "pos": "ADJ",
+    "gender": "Neut",
+    "number": "Sing",
+    "forms": {
+      "Masc": "какъв",
+      "Fem": "каква",
+      "Plur": "какви"
+    },
+    "base": "какъв"
+  },
+  "какви": {
+    "pos": "ADJ",
+    "gender": "Plur",
+    "number": "Plur",
+    "forms": {
+      "Masc": "какъв",
+      "Fem": "каква",
+      "Neut": "какво"
+    },
+    "base": "какъв"
+  },
+  "добър": {
+    "pos": "ADJ",
+    "gender": "Masc",
+    "number": "Sing",
+    "forms": {
+      "Masc": "добър",
+      "Fem": "добра",
+      "Neut": "добро",
+      "Plur": "добри"
+    }
+  },
+  "лош": {
+    "pos": "ADJ",
+    "gender": "Masc",
+    "number": "Sing",
+    "forms": {
+      "Masc": "лош",
+      "Fem": "лоша",
+      "Neut": "лошо",
+      "Plur": "лоши"
+    }
+  },
+  "висок": {
+    "pos": "ADJ",
+    "gender": "Masc",
+    "number": "Sing",
+    "forms": {
+      "Masc": "висок",
+      "Fem": "висока",
+      "Neut": "високо",
+      "Plur": "високи"
+    }
+  },
+  "нисък": {
+    "pos": "ADJ",
+    "gender": "Masc",
+    "number": "Sing",
+    "forms": {
+      "Masc": "нисък",
+      "Fem": "ниска",
+      "Neut": "ниско",
+      "Plur": "ниски"
+    }
+  },
+  "умен": {
+    "pos": "ADJ",
+    "gender": "Masc",
+    "number": "Sing",
+    "forms": {
+      "Masc": "умен",
+      "Fem": "умна",
+      "Neut": "умно",
+      "Plur": "умни"
+    }
+  },
+  "глупав": {
+    "pos": "ADJ",
+    "gender": "Masc",
+    "number": "Sing",
+    "forms": {
+      "Masc": "глупав",
+      "Fem": "глупава",
+      "Neut": "глупаво",
+      "Plur": "глупави"
+    }
+  }
+}

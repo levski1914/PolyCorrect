@@ -1,0 +1,42 @@
+{
+  "момче": {
+    "pos": "NOUN",
+    "gender": "Neut",
+    "number": "Sing"
+  },
+  "момиче": {
+    "pos": "NOUN",
+    "gender": "Neut",
+    "number": "Sing"
+  },
+  "човек": {
+    "pos": "NOUN",
+    "gender": "Masc",
+    "number": "Sing"
+  },
+  "мъж": {
+    "pos": "NOUN",
+    "gender": "Masc",
+    "number": "Sing"
+  },
+  "жена": {
+    "pos": "NOUN",
+    "gender": "Fem",
+    "number": "Sing"
+  },
+  "дете": {
+    "pos": "NOUN",
+    "gender": "Neut",
+    "number": "Sing"
+  },
+  "ученик": {
+    "pos": "NOUN",
+    "gender": "Masc",
+    "number": "Sing"
+  },
+  "учител": {
+    "pos": "NOUN",
+    "gender": "Masc",
+    "number": "Sing"
+  }
+}

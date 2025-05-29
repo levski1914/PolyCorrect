@@ -1,0 +1,34 @@
+{
+  "играя": { "pos": "VERB", "person": 1, "number": "Sing", "base": "играя" },
+  "играеш": { "pos": "VERB", "person": 2, "number": "Sing", "base": "играя" },
+  "играе": { "pos": "VERB", "person": 3, "number": "Sing", "base": "играя" },
+  "играем": { "pos": "VERB", "person": 1, "number": "Plur", "base": "играя" },
+  "играете": { "pos": "VERB", "person": 2, "number": "Plur", "base": "играя" },
+  "играят": { "pos": "VERB", "person": 3, "number": "Plur", "base": "играя" },
+  "кажа": { "pos": "VERB", "person": 1, "number": "Sing", "base": "казвам" },
+  "чета": { "pos": "VERB", "person": 1, "number": "Sing", "base": "чета" },
+  "четеш": { "pos": "VERB", "person": 2, "number": "Sing", "base": "чета" },
+  "чете": { "pos": "VERB", "person": 3, "number": "Sing", "base": "чета" },
+  "четем": { "pos": "VERB", "person": 1, "number": "Plur", "base": "чета" },
+  "четете": { "pos": "VERB", "person": 2, "number": "Plur", "base": "чета" },
+  "четат": { "pos": "VERB", "person": 3, "number": "Plur", "base": "чета" },
+
+  "пиша": { "pos": "VERB", "person": 1, "number": "Sing", "base": "пиша" },
+  "пишеш": { "pos": "VERB", "person": 2, "number": "Sing", "base": "пиша" },
+  "пише": { "pos": "VERB", "person": 3, "number": "Sing", "base": "пиша" },
+  "пишем": { "pos": "VERB", "person": 1, "number": "Plur", "base": "пиша" },
+  "пишете": { "pos": "VERB", "person": 2, "number": "Plur", "base": "пиша" },
+  "пишат": { "pos": "VERB", "person": 3, "number": "Plur", "base": "пиша" },
+
+  "говоря": { "pos": "VERB", "person": 1, "number": "Sing", "base": "говоря" },
+  "говориш": { "pos": "VERB", "person": 2, "number": "Sing", "base": "говоря" },
+  "говори": { "pos": "VERB", "person": 3, "number": "Sing", "base": "говоря" },
+  "говорим": { "pos": "VERB", "person": 1, "number": "Plur", "base": "говоря" },
+  "говорите": {
+    "pos": "VERB",
+    "person": 2,
+    "number": "Plur",
+    "base": "говоря"
+  },
+  "говорят": { "pos": "VERB", "person": 3, "number": "Plur", "base": "говоря" }
+}

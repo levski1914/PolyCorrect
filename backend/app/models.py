@@ -9,4 +9,4 @@ class TextEntry(Base):
     content=Column(Text,nullable=False)
     issues=Column(JSON,nullable=True)
     created_at=Column(DateTime,default=datetime.utcnow)
-    
+    user_id = Column(String, index=True) 
